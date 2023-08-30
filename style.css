@@ -1,0 +1,28 @@
+.sc-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10%;
+}
+
+.sc-container button {
+  margin-top: 2rem;
+  font-size: 1.1rem;
+  padding: 1.2rem 1rem;
+}
+
+.btn {
+  font-size: 0.8rem;
+  font-weight: 700;
+  outline: none;
+  border: none;
+  background-color: #1d1d1d;
+  color: aliceblue;
+  padding: 13px 40px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+.btn:hover {
+  background-color: #3a3833;
+}
